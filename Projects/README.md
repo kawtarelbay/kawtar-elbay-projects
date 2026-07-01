@@ -175,7 +175,7 @@ This project involved analyzing and visualizing incidents reported to the San Fr
 ![Power BI - Graph 4](../Screenshots/powerbi_graph4.png)
 
 ### Key Insights
--**LARCENY/THEFT** is the most frequent crime category, followed by **OTHER OFFENSES** and **NON-CRIMINAL** incidents
+- **LARCENY/THEFT** is the most frequent crime category, followed by **OTHER OFFENSES** and **NON-CRIMINAL** incidents
 - **Kidnapping** incidents peaked in 2013 (330 reports) and hit a low in 2012 (170 reports)
 - Data-driven insights can help optimize police resource allocation and reduce incidents in high-risk zones
 
