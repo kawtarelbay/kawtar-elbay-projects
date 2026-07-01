@@ -188,13 +188,13 @@ This project involved analyzing and visualizing incidents reported to the San Fr
 
 ---
 
-## 4. NoSQL – Vehicle Rental System
+## 5. NoSQL – Vehicle Rental System
 
 **Date:** April 2026  
 **Type:** Academic Project
 
 ### Project Overview
-This academic project involved developing a vehicle rental management application using NoSQL database and Streamlit.
+This academic project involved developing a vehicle rental management application using NoSQL database and Streamlit. The application allows users to manage contracts, vehicles, and customers efficiently.
 
 ### Objectives
 - Import large datasets into Firestore
@@ -207,6 +207,38 @@ This academic project involved developing a vehicle rental management applicatio
 - Built a user interface with Streamlit
 - Implemented search and filtering functionalities
 
+### Screenshots
+
+#### Screenshot 1: Data Import from CSV to Firestore
+![NoSQL - Data Import](../Screenshots/nosql_import.png)
+
+**What it shows:** This screenshot displays the successful import of 2,000+ vehicle rental contracts from CSV to Firestore, with all documents imported into the 'car_rentals' collection.
+
+
+#### Screenshot 2: Code for Streamlit Interface (Page Config & Firebase Init)
+![NoSQL - Code Interface](../Screenshots/nosql_code.png)
+
+**What it shows:** This screenshot shows the Python code for Streamlit page configuration, Firebase/Firestore initialization, and the main menu structure for the CRUD application.
+
+
+#### Screenshot 3: Project Files Used
+![NoSQL - Project Files](../Screenshots/nosql_files.png)
+
+**What it shows:** This screenshot lists all project files used in the application, including app.py (Streamlit interface), car_rental_data.csv (2,000+ contracts), import_data.py (data import script), and serviceAccountKey.json (Firebase credentials).
+
+
+#### Screenshot 4: Streamlit Application Launch
+![NoSQL - Streamlit Launch](../Screenshots/nosql_launch.png)
+
+**What it shows:** This screenshot shows the terminal output when launching the Streamlit application, indicating that the app is running locally at `http://localhost:8501`.
+
+
+#### Screenshot 5: Full CRUD Application Interface
+![NoSQL - CRUD Interface](../Screenshots/nosql_interface.png)
+
+**What it shows:** This screenshot presents the complete Streamlit application interface displaying the CRUD operations with fields for Client ID, Vehicle ID, Description, Duration, and Segment, along with a success message for adding a rental.
+
+
 ### Results
 - Fully functional vehicle rental application
 - Easy-to-use interface for managing contracts
@@ -217,9 +249,6 @@ This academic project involved developing a vehicle rental management applicatio
 - **Firestore** – NoSQL database
 - **Streamlit** – Web application framework
 - **CSV** – Data import
-
-### Screenshot
-![NoSQL App](../Screenshots/nosql_app.png)
 
 ---
 
