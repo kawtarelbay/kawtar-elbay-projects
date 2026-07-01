@@ -158,8 +158,6 @@ This project involved analyzing and visualizing incidents reported to the San Fr
 - Prioritize police resource allocation based on real needs
 - Analyze temporal variations (by month, day, hour)
 
-### Dashboard
-![Power BI Dashboard - Overview](../Screenshots/powerbi_dashboard.png)
 
 ### Graphs
 
