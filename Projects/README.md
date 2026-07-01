@@ -149,35 +149,42 @@ Prepare a clear and concise presentation of the analysis findings to stakeholder
 ## 3. Power BI – San Francisco Police Incidents
 
 **Date:** April 2026  
-**Type:** Academic Project
 
 ### Project Overview
-This project involved analyzing public safety data from the San Francisco Police Department to create an interactive decision-making dashboard.
+This project involved analyzing and visualizing incidents reported to the San Francisco Police Department. The goal was to identify spatial and temporal trends to support operational decision-making.
 
 ### Objectives
-- Perform advanced data cleaning
-- Create an interactive dashboard for incident analysis
-- Identify high-risk areas and propose strategies to reduce incidents
+- Identify high-risk districts (e.g., MISSION, BAYVIEW)
+- Prioritize police resource allocation based on real needs
+- Analyze temporal variations (by month, day, hour)
 
-### Tasks Performed
-- Performed advanced data cleaning with Power Query
-- Created an interactive dashboard with key performance indicators
-- Analyzed trends to identify zones at risk
-- Proposed strategies to limit incidents based on data insights
+### Dashboard
+![Power BI Dashboard - Overview](../Screenshots/powerbi_dashboard.png)
 
-### Results
-- Delivered an interactive Power BI dashboard
-- Identified high-risk areas and incident patterns
-- Provided actionable strategies for incident reduction
+### Graphs
+
+#### Graph 1: Incidents by District
+![Power BI - Graph 1](../Screenshots/powerbi_graph1.png)
+
+#### Graph 2: Incidents by Category
+![Power BI - Graph 2](../Screenshots/powerbi_graph2.png)
+
+#### Graph 3: Incidents by Month
+![Power BI - Graph 3](../Screenshots/powerbi_graph3.png)
+
+#### Graph 4: Incidents by Hour
+![Power BI - Graph 4](../Screenshots/powerbi_graph4.png)
+
+### Key Insights
+- **MISSION** and **BAYVIEW** districts are the most affected
+- Incident patterns vary significantly by time of day and month
+- Resource allocation can be optimized based on identified trends
 
 ### Technologies Used
 - **Power BI** – Dashboard creation
 - **Power Query** – Data cleaning and transformation
-- **Data Visualization** – Interactive visualizations
+- **Data Visualization** – Interactive dashboards
 - **Data Analysis** – Trend analysis and pattern identification
-
-### Screenshot
-![Power BI Dashboard](../Screenshots/powerbi_dashboard.png)
 
 ---
 
