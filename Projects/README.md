@@ -81,7 +81,7 @@ Create a 4th column (`Equality class`) classifying the equality score into 3 typ
 
 
 ---
-*Part of the Deloitte Data Analytics Virtual Work Experience Program on Forage*
+
 ## 2. Data for Decision Making – BCG X (Forage)
 
 **Date:** June 2026  
