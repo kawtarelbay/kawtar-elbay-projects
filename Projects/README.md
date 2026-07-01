@@ -250,18 +250,20 @@ This project involved developing a vehicle rental management application using N
 - **CSV** – Data import
 
 ---
+## 4. Python – Chronic Kidney Disease (CKD) Diagnosis
 
-## 5. Python – Chronic Kidney Disease (CKD) Diagnosis
-
-**Date:** March 2026  
+**Date:** March 2026 
+**Type:** Academic Project
 
 ### Project Overview
-This project involved analyzing medical data to predict the risk of Chronic Kidney Disease (CKD) using machine learning techniques.
+This academic project involved analyzing medical data to predict the risk of Chronic Kidney Disease (CKD) using machine learning techniques.
 
-### Objectives
-- Perform data cleaning and exploratory analysis
-- Build machine learning models for CKD prediction
-- Achieve high-accuracy predictions
+### Dataset
+The dataset used is the Chronic Kidney Disease (CKD) Dataset available on the UCI Machine Learning Repository. It contains 24 clinical and biological variables.
+
+**Target variable:**
+- `ckd` → patient with CKD
+- `notckd` → healthy patient
 
 ### Tasks Performed
 - Data cleaning and preprocessing with Pandas
@@ -272,10 +274,29 @@ This project involved analyzing medical data to predict the risk of Chronic Kidn
   - Dimensionality Reduction – Reducing features while preserving information
 - Evaluated model performance with metrics
 
+### Screenshots
+
+#### Screenshot 1: Boxplots Comparison - CKD vs Non-CKD
+![CKD - Boxplots](../Screenshots/ckd_boxplots.png)
+
+**Result:** Boxplots comparing clinical features (age, blood pressure, albumin, sugar, blood glucose, blood urea, serum creatinine) between CKD and non-CKD patients, highlighting significant differences in distributions.
+
+
+#### Screenshot 2: Statistical Summary of Features
+![CKD - Data Statistics](../Screenshots/ckd_statistics.png)
+
+**Result:** Statistical summary of dataset showing mean values and distributions for key features across patient groups.
+
+
+#### Screenshot 3: Categorical Variables Distribution
+![CKD - Categorical Variables](../Screenshots/ckd_categorical.png)
+
+**Result:** Distribution of categorical variables including red blood cells (normal/abnormal), pus cells, hypertension, and diabetes mellitus across CKD and non-CKD patients.
+
 ### Results
 - Successfully predicted CKD risk with high accuracy
 - Identified key features contributing to CKD diagnosis
-- Delivered a Jupyter Notebook with complete analysis
+- Applied multiple ML techniques (Classification, Clustering, Dimensionality Reduction)
 
 ### Technologies Used
 - **Python** – Programming language
@@ -283,9 +304,6 @@ This project involved analyzing medical data to predict the risk of Chronic Kidn
 - **Scikit-learn** – Machine learning models
 - **Matplotlib / Seaborn** – Data visualization
 - **Google Colab** – Development environment
-
-### Screenshot
-![CKD Model](../Screenshots/ckd_model.png)
 
 ---
 
