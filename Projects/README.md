@@ -191,10 +191,9 @@ This project involved analyzing and visualizing incidents reported to the San Fr
 ## 5. NoSQL – Vehicle Rental System
 
 **Date:** April 2026  
-**Type:** Academic Project
 
 ### Project Overview
-This academic project involved developing a vehicle rental management application using NoSQL database and Streamlit. The application allows users to manage contracts, vehicles, and customers efficiently.
+This project involved developing a vehicle rental management application using NoSQL database and Streamlit. The application allows users to manage contracts, vehicles, and customers efficiently.
 
 ### Objectives
 - Import large datasets into Firestore
@@ -255,10 +254,9 @@ This academic project involved developing a vehicle rental management applicatio
 ## 5. Python – Chronic Kidney Disease (CKD) Diagnosis
 
 **Date:** March 2026  
-**Type:** Academic Project
 
 ### Project Overview
-This academic project involved analyzing medical data to predict the risk of Chronic Kidney Disease (CKD) using machine learning techniques.
+This project involved analyzing medical data to predict the risk of Chronic Kidney Disease (CKD) using machine learning techniques.
 
 ### Objectives
 - Perform data cleaning and exploratory analysis
@@ -294,35 +292,64 @@ This academic project involved analyzing medical data to predict the risk of Chr
 ## 6. Java – GameVersAcademy Catalog Management
 
 **Date:** February 2026  
-**Type:** Academic Project
 
 ### Project Overview
-This academic project involved developing a catalog management application for GameVersAcademy using Java and Eclipse IDE.
+This project involved developing a catalog management application for GameVersAcademy using Java and Eclipse IDE. The application allows users to manage game mods and clients efficiently through a complete CRUD interface.
 
 ### Objectives
-- Implement user data management
+- Implement user data management (Client and Mod classes)
 - Create a functional CRUD application
 - Develop an interactive user interface
+- Provide dashboard with key statistics
 
 ### Tasks Performed
-- Implemented CRUD operations
-- Developed filtered search functionality
-- Created an interactive table for data display
+- Implemented CRUD operations for Mods and Clients
+- Developed filtered search functionality by title or category
+- Created interactive tables for data display
 - Managed user data efficiently
+- Built a dashboard with statistics (total mods, downloads, categories)
+
+### Screenshots
+
+#### Screenshot 1: Java Code Implementation (CRUD Operations)
+![Java - Code Implementation](../Screenshots/java_code.png)
+
+**What it shows:** This screenshot displays the Java code for the CRUD operations, including methods for adding, updating, deleting, and retrieving clients from the database (ClientService class).
+
+---
+
+#### Screenshot 2: Application Interface - Mods Catalogue
+![Java - Mods Catalogue](../Screenshots/java_interface_mods.png)
+
+**What it shows:** This screenshot shows the main catalogue interface of the GameVersAcademy application, displaying the list of game mods with search functionality by title or category. It shows 5 mods available with details (ID, Title, Category, Author, Description, Downloads, Date added) and actions (Modify, Delete).
+
+---
+
+#### Screenshot 3: Application Interface - Client Management
+![Java - Client Management](../Screenshots/java_interface_clients.png)
+
+**What it shows:** This screenshot displays the client management interface with a table showing client details (ID, Name, Email, Phone, Address) and actions (Modify, Delete). It also includes buttons to add a new client and return to the mods catalogue. This demonstrates the CRUD functionality for both Mod and Client classes.
+
+---
+
+#### Screenshot 4: Dashboard with Statistics
+![Java - Dashboard](../Screenshots/java_dashboard.png)
+
+**What it shows:** This screenshot presents the dashboard with key statistics for the GameVersAcademy platform, including total mods available, category distribution, and user engagement metrics.
+
+---
 
 ### Results
 - Fully functional catalog management application
-- User-friendly interface for data management
+- User-friendly interface for managing mods and clients
 - Efficient search and filtering capabilities
+- Real-time statistics dashboard
 
 ### Technologies Used
 - **Java** – Programming language
 - **Eclipse IDE** – Development environment
-- **CRUD Operations** – Data management
-
-### Screenshot
-![Java App](../Screenshots/java_app.png)
-
----
-
-*Last updated: July 2026*
+- **CRUD Operations** – Data management for Mods and Clients
+- **Tomcat** – Server deployment
+- **JSP/Servlets** – Web application architecture
+- **Mod Class** – Game mod management
+- **Client Class** – User management
