@@ -292,9 +292,10 @@ This project involved analyzing medical data to predict the risk of Chronic Kidn
 ## 6. Java – GameVersAcademy Catalog Management
 
 **Date:** February 2026  
+**Type:** Academic Project
 
 ### Project Overview
-This project involved developing a catalog management application for GameVersAcademy using Java and Eclipse IDE. The application allows users to manage game mods and clients efficiently through a complete CRUD interface.
+This academic project involved developing a catalog management application for GameVersAcademy using Java and Eclipse IDE. The application allows users to manage game mods and clients efficiently through a complete CRUD interface.
 
 ### Objectives
 - Implement user data management (Client and Mod classes)
