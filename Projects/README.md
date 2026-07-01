@@ -8,43 +8,81 @@
 **Type:** Virtual Work Experience Program
 
 ### Project Overview
-This project is part of the virtual work experience program with Deloitte on Forage. The goal was to analyze telemetry data collected from 4 factories (Daikibo) to identify machine breakdown patterns.
+This project is part of the virtual work experience program with Deloitte on Forage. The goal was to analyze telemetry data collected from 4 factories (Daikibo) to identify machine breakdown patterns and investigate gender pay equality.
 
-### Context
+---
+
+### Task 1: Telemetry Data Analysis
+
+#### Context
 The client, Daikibo, has 4 factories:
 - Daikibo Factory Meiyo (Tokyo, Japan)
 - Daikibo Factory Seiko (Osaka, Japan)
 - Daikibo Berlin (Berlin, Germany)
 - Daikibo Shenzhen (Shenzhen, China)
 
-Each location has 9 types of machines, sending a message every 10 minutes. Data was collected for one month (May 2021).
+Each location has 9 types of machines, sending a message every 10 minutes. Data was collected for one month (May 2021) and shared as a single JSON file.
 
-### Objectives
+#### Objectives
 1. Identify the location where machines broke the most
 2. Determine which machines broke most often in that location
 
-### Tasks Performed
+#### Tasks Performed
 - Analyzed telemetry data using Tableau
-- Created a calculated measure field "Unhealthy" with a value of 10 for each unhealthy status
+- Created a calculated measure field "Unhealthy" with a value of 10 for each unhealthy status (representing 10 minutes of potential downtime)
 - Created a bar chart "Down Time per Factory"
 - Created a bar chart "Down Time per Device Type"
 - Designed an interactive dashboard with both charts, using the first chart as a filter
 
-### Results
+#### Results
 - Identified the factory with the most machine breakdowns
 - Determined the most frequently broken machines in that location
 - Delivered an interactive dashboard for data exploration
 
-### Technologies Used
-- **Tableau** – Data visualization and dashboard creation
-- **Data Analysis** – Telemetry data analysis
-- **Dashboard Design** – Interactive dashboards
-
-### Screenshot
-![Deloitte Dashboard](../Screenshots/deloitte_dashboard.png)
+#### Dashboard Screenshot
+![Deloitte Dashboard - Task 1](../Screenshots/deloitte_dashboard.png)
 
 ---
 
+### Task 2: Gender Pay Equality Analysis
+
+#### Context
+After internal complaints about gender inequality in terms of salary, Daikibo Industrials requested an investigation. The Forensic Tech team built an algorithm to quantify the "level of gender pay equality" for most job roles within the company, in all company locations.
+
+#### Data Provided
+An Excel file (`Equality Table.xlsx`) containing:
+1. **Factory** – Location name
+2. **Job Role** – Employee position
+3. **Equality Score** – Integer between -100 and +100 (0 is ideal)
+
+#### Objectives
+Create a 4th column (`Equality class`) classifying the equality score into 3 types:
+
+| Class | Score Range |
+| :--- | :--- |
+| **Fair** | Between -10 and +10 |
+| **Unfair** | Less than -10 OR greater than +10 |
+| **Highly Discriminative** | Less than -20 OR greater than +20 |
+
+#### Tasks Performed
+- Analyzed the equality data in Excel
+- Created a new column "Equality class" using conditional logic
+- Classified each employee based on their equality score
+
+#### Results Table
+![Deloitte Equality Table](../Screenshots/deloitte_equality_table.png)
+
+---
+
+### Technologies Used
+- **Tableau** – Data visualization and dashboard creation
+- **Excel** – Data analysis and classification
+- **Data Analysis** – Telemetry data and equality analysis
+- **Dashboard Design** – Interactive dashboards
+
+---
+
+*Part of the Deloitte Data Analytics Virtual Work Experience Program on Forage*
 ## 2. Data for Decision Making – BCG X (Forage)
 
 **Date:** June 2026  
