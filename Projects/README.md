@@ -90,29 +90,59 @@ Create a 4th column (`Equality class`) classifying the equality score into 3 typ
 ### Project Overview
 This project is part of the virtual work experience program with BCG X on Forage. The goal was to review digital ad campaign performance data and identify insights to guide smarter business decisions.
 
-### Objectives
-- Analyze campaign performance data
-- Identify key insights and trends
-- Provide data-driven recommendations for future campaigns
+---
 
-### Tasks Performed
-- Reviewed digital ad campaign performance data
-- Analyzed campaign metrics to identify patterns
-- Developed recommendations based on data insights
-- Prepared a presentation of findings
+### Task 1: Data Analysis
 
-### Results
-- Identified key performance indicators and trends
-- Provided actionable recommendations for campaign optimization
-- Demonstrated how data drives strategic decision-making
+#### Context
+A digital ad campaign was launched across multiple channels (Email, Instagram, Web) using two different campaign types:
+- **Campaign A** – Conversational tone
+- **Campaign B** – Promotional tone
+
+The objective was to analyze sales performance by channel and campaign to optimize future marketing strategies.
+
+#### Tasks Performed
+1. **Total Sales by Channel** – Analyzed sales performance across different channels
+2. **Total Sales by Campaign** – Compared the performance of Campaign A vs Campaign B
+3. **Pivot Table Analysis** – Created a pivot table combining both channel and campaign data
+4. **New Customer Segmentation** – Added a slicer to isolate new customer data
+
+#### Key Insights
+- **Campaign A (Conversational tone)** performed better on discovery channels (Instagram, Web) for acquiring new customers
+- **Campaign B (Promotional tone)** performed better on Email for retaining and converting existing customers
+
+#### Results Table with New Customer Segment
+![BCG X Analysis - Task 1](../Screenshots/bcgx_analysis.png)
+
+
+
+### Task 2: Communicating Findings
+
+#### Objective
+Prepare a clear and concise presentation of the analysis findings to stakeholders.
+
+#### Tasks Performed
+- Synthesized data insights into actionable recommendations
+- Prepared a presentation summarizing:
+  - Campaign performance by channel
+  - Customer acquisition vs retention strategies
+  - Recommended marketing approach
+
+#### Final Recommendations
+- **For new customer acquisition:** Use Campaign A (conversational tone) on discovery channels (Instagram, Web)
+- **For existing customer retention:** Use Campaign B (promotional tone) on Email
+
+#### Presentation Screenshot
+![BCG X - Task 2](../Screenshots/bcgx_presentation.png)
+
+
 
 ### Technologies Used
 - **Data Analysis** – Campaign performance analysis
 - **Decision Making** – Strategic recommendations
 - **Business Intelligence** – Data-driven insights
+- **Excel** – Pivot tables and data segmentation
 
-### Screenshot
-![BCG X Analysis](../Screenshots/bcgx_analysis.png)
 
 ---
 
