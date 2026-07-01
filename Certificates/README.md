@@ -59,4 +59,3 @@ This folder contains all my professional certifications and achievements.
 
 ---
 
-*Last updated: July 2026*
