@@ -154,7 +154,7 @@ Prepare a clear and concise presentation of the analysis findings to stakeholder
 This project involved analyzing and visualizing incidents reported to the San Francisco Police Department. The goal was to identify spatial and temporal trends to support operational decision-making.
 
 ### Objectives
-- Identify high-risk districts (e.g., MISSION, BAYVIEW)
+- Identify high-risk districts
 - Prioritize police resource allocation based on real needs
 - Analyze temporal variations (by month, day, hour)
 
@@ -166,20 +166,22 @@ This project involved analyzing and visualizing incidents reported to the San Fr
 
 #### Graph 2: Incidents by Category
 ![Power BI - Graph 2](../Screenshots/powerbi_graph2.png)
+**Result:** **LARCENY/THEFT** is the most frequent incident category with approximately **100,000** reported cases, followed by **OTHER OFFENSES** (60.65K),and **NON-CRIMINAL** (52.98K). To reduce incidents, authorities should focus on theft prevention in high-risk areas, increase surveillance, and strengthen community awareness programs.
 
-#### Graph 3: Incidents by Month
+#### Graph 3: Incidents by Category and Year (2010-2014)
 ![Power BI - Graph 3](../Screenshots/powerbi_graph3.png)
 
-#### Graph 4: Incidents by Hour
+#### Graph 4: Evolution of Kidnapping Incidents by Year (2010-2014)
 ![Power BI - Graph 4](../Screenshots/powerbi_graph4.png)
 
 ### Key Insights
-- **MISSION** and **BAYVIEW** districts are the most affected
-- Incident patterns vary significantly by time of day and month
-- Resource allocation can be optimized based on identified trends
+-**LARCENY/THEFT** is the most frequent crime category, followed by **OTHER OFFENSES** and **NON-CRIMINAL** incidents
+- **Kidnapping** incidents peaked in 2013 (330 reports) and hit a low in 2012 (170 reports)
+- Data-driven insights can help optimize police resource allocation and reduce incidents in high-risk zones
+
 
 ### Technologies Used
-- **Power BI** – Dashboard creation
+- **Power BI** – Visualization
 - **Power Query** – Data cleaning and transformation
 - **Data Visualization** – Interactive dashboards
 - **Data Analysis** – Trend analysis and pattern identification
