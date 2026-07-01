@@ -252,6 +252,7 @@ This project involved developing a vehicle rental management application using N
 ## 4. Python – Chronic Kidney Disease (CKD) Diagnosis
 
 **Date:** March 2026 
+
 **Type:** Academic Project
 
 ### Project Overview
@@ -334,28 +335,24 @@ This academic project involved developing a catalog management application for G
 
 **What it shows:** This screenshot displays the Java code for the CRUD operations, including methods for adding, updating, deleting, and retrieving clients from the database (ClientService class).
 
----
 
 #### Screenshot 2: Application Interface - Mods Catalogue
 ![Java - Mods Catalogue](../Screenshots/java_interface_mods.png)
 
 **What it shows:** This screenshot shows the main catalogue interface of the GameVersAcademy application, displaying the list of game mods with search functionality by title or category. It shows 5 mods available with details (ID, Title, Category, Author, Description, Downloads, Date added) and actions (Modify, Delete).
 
----
 
 #### Screenshot 3: Application Interface - Client Management
 ![Java - Client Management](../Screenshots/java_interface_clients.png)
 
 **What it shows:** This screenshot displays the client management interface with a table showing client details (ID, Name, Email, Phone, Address) and actions (Modify, Delete). It also includes buttons to add a new client and return to the mods catalogue. This demonstrates the CRUD functionality for both Mod and Client classes.
 
----
 
 #### Screenshot 4: Dashboard with Statistics
 ![Java - Dashboard](../Screenshots/java_dashboard.png)
 
 **What it shows:** This screenshot presents the dashboard with key statistics for the GameVersAcademy platform, including total mods available, category distribution, and user engagement metrics.
 
----
 
 ### Results
 - Fully functional catalog management application
