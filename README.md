@@ -1,6 +1,5 @@
 # kawtar-elbay-projects:
 # Kawtar Elbay – Data Science Portfolio
-# Kawtar Elbay – Data Science Portfolio
 
 ## About Me
 
@@ -26,18 +25,18 @@ I am a Data Science Engineering student at ESI Rabat, specializing in Knowledge 
 | Certificate | Organization | Date |
 | :--- | :--- | :--- |
 | Business Analytics with Excel | Simplilearn | 2026 |
-| Data Analytics | LinkedIn & Microsoft | 2025 |
-| Python for Data Science | IBM SkillsBuild | 2025 |
-| Agile Scrum Master Basics | Simplilearn | 2025 |
+| Python for Data Science | IBM SkillsBuild | 2026|
 | Data Analytics Program | Deloitte (Forage) | 2026 |
 | Data for Decision Making | BCG X (Forage) | 2026 |
+| Agile Scrum Master Basics | Simplilearn | 2025 |
+| Data Analytics | LinkedIn & Microsoft | 2024 |
 
 ---
 
 ## Contact
 
 - **LinkedIn :** [linkedin.com/in/kawtar-elbay-85a597281](https://www.linkedin.com/in/kawtar-elbay-85a597281)
-- **Email :** elbaykawtar@gmail.com
+
 
 
 ---
