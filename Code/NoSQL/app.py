@@ -25,7 +25,7 @@ menu = st.sidebar.radio(
 st.sidebar.markdown("---")
 st.sidebar.info("Projet NoSQL - Location de voitures\n\nBase de données : Firestore\nType : Document")
 
-# ==================== CREATE ====================
+#  CREATE 
 if menu == "➕ Ajouter une location":
     st.header("➕ Ajouter une nouvelle location")
     
@@ -63,7 +63,7 @@ if menu == "➕ Ajouter une location":
         else:
             st.error(" Veuillez remplir au moins l'ID Client et l'ID Véhicule")
 
-# ==================== READ ====================
+#  READ
 elif menu == "📋 Liste des locations":
     st.header("📋 Liste des locations")
     
@@ -99,7 +99,7 @@ elif menu == "📋 Liste des locations":
     else:
         st.warning("Aucune donnée trouvée")
 
-# ==================== UPDATE ====================
+# UPDATE 
 elif menu == "✏️ Modifier":
     st.header("✏️ Modifier une location")
     
@@ -141,7 +141,7 @@ elif menu == "✏️ Modifier":
                 st.success(f"✅ Document {selected_id} modifié avec succès !")
                 st.rerun()
 
-# ==================== DELETE ====================
+#  DELETE 
 elif menu == "🗑️ Supprimer":
     st.header("🗑️ Supprimer une location")
     
