@@ -42,7 +42,7 @@ Each location has 9 types of machines, sending a message every 10 minutes. Data 
 #### Dashboard Screenshot
 ![Deloitte Dashboard - Task 1](../Screenshots/deloitte_dashboard.png)
 
----
+
 
 ### Task 2: Gender Pay Equality Analysis
 
@@ -72,7 +72,6 @@ Create a 4th column (`Equality class`) classifying the equality score into 3 typ
 #### Results Table
 ![Deloitte Equality Table](../Screenshots/deloitte_equality_table.png)
 
----
 
 ### Technologies Used
 - **Tableau** – Data visualization and dashboard creation
@@ -80,8 +79,8 @@ Create a 4th column (`Equality class`) classifying the equality score into 3 typ
 - **Data Analysis** – Telemetry data and equality analysis
 - **Dashboard Design** – Interactive dashboards
 
----
 
+---
 *Part of the Deloitte Data Analytics Virtual Work Experience Program on Forage*
 ## 2. Data for Decision Making – BCG X (Forage)
 
