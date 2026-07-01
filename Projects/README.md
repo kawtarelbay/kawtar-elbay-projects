@@ -155,7 +155,7 @@ This project involved analyzing and visualizing incidents reported to the San Fr
 
 ### Objectives
 - Identify high-risk districts
-- Prioritize police resource allocation based on real needed
+- Prioritize police resource allocation based on real needs
 
 
 ### Graphs
