@@ -24,6 +24,7 @@ I am a Data Science Engineering student at ESI Rabat, specializing in Knowledge 
 
 | Certificate | Organization | Date |
 | :--- | :--- | :--- |
+| Databricks Fundamentals | databricks | 2026 |
 | Business Analytics with Excel | Simplilearn | 2026 |
 | Python for Data Science | IBM SkillsBuild | 2026|
 | Data Analytics Program | Deloitte (Forage) | 2026 |
