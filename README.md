@@ -69,7 +69,7 @@ I use **Python, Power BI, SQL, and Tableau** to transform **raw data into action
 | Period | Company | Role | Key Achievements | Tools |
 | :--- | :--- | :--- | :--- | :--- |
 | **Jul 2026 – Aug 2026** | **HCP** (Haut-Commissariat au Plan) – Rabat | Data Science, NLP & LLM Intern | Built a GenAI/RAG system to extract statistical data from complex documents (70% time saving); implemented RAG with ChromaDB, Ollama, LangChain | Python, RAG, LLM, NLP, ChromaDB, LangChain |
-| **Aug 2026 – Sep 2026** | **CodeAlpha** – Remote | Virtual Data Analytics & NLP Intern | EDA and prediction on Amazon Fine Food Reviews; built ML pipeline for sentiment classification | Python, Pandas, Scikit-Learn, NLTK/SpaCy |
+| **Aug 2026 – Sep 2026** | **CodeAlpha** – Remote | Virtual Data Analytics & NLP Intern | EDA and prediction on Amazon Fine Food Reviews; built ML pipeline for sentiment classification | Python, Pandas, Scikit-Learn |
 | **Jul 2025 – Aug 2025** | **Bond Fish** – Morocco | Operational Intern | Analyzed production data and created visualizations to improve operational performance | Data Analysis, Visualization |
 
 ## Contact
