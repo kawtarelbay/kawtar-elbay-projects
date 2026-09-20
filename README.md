@@ -3,7 +3,37 @@
 
 ## About Me
 
-I am a Data Science Engineering student at ESI Rabat, specializing in Knowledge Engineering and Data Science (ICSD). I am passionate about data analysis, Machine Learning, and Business Intelligence. 
+<p align="center">
+  <img src="./Screenshots/banner_welcome.png" alt="Welcome Banner" width="100%" />
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+I am a **Data Science Engineering student** at **ESI Rabat**, specializing in **Knowledge Engineering and Data Science (ICSD)**. I am passionate about data analysis, Machine Learning, and Business Intelligence.
+
+I use **Python, Power BI, SQL, and Tableau** to transform **raw data into actionable insights**, solve real-world problems, and help businesses **make the right decisions**.
+
+---
+
+## 🛠️ Skills & Tools
+
+| Tool | Usage |
+| :--- | :--- |
+| **Python** | Data cleaning, analysis, Machine Learning |
+| **SQL** | Data extraction, transformation, querying |
+| **Power BI** | Interactive dashboards, Business Intelligence |
+| **Tableau** | Data visualization, storytelling |
+
+---
+
+## 📊 What I Do
+
+- **Transform raw data** into clean, structured datasets
+- **Build dashboards** that reveal hidden trends
+- **Solve problems** using data-driven approaches
+- **Help decision-makers** act with confidence
 
 ---
 
