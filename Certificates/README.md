@@ -8,7 +8,7 @@ This folder contains all my professional certifications and achievements.
 **Issuing Organization:** Databricks Academy  
 **Date:** 2026  
 **Skills:** Data Lakehouse, Apache Spark, Unity Catalog, Lakeflow, Databricks SQL, AI/BI Genie
-![Databricks Certificate](./Screenshots/certif_databricks.png)
+![Databricks Certificate](../Screenshots/certif_databricks.png)
 
 ## 2. Business Analytics with Excel – Simplilearn (2026)
 ![Business Analytics with Excel](../Screenshots/certif_business_analytics.png)
