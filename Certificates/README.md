@@ -6,7 +6,7 @@ This folder contains all my professional certifications and achievements.
 ---
 ## 1. Databricks Fundamentals Accreditation — Databricks Academy (2026)
 
-![Databricks Certificate](../Screenshots/certif_databricks.png)
+![Databricks Certificate](../Screenshots/certificat_databricks.png)
 
 **Issuing Organization:** Databricks Academy  
 **Date:** 2026  
