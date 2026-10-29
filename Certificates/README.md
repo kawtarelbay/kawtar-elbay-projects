@@ -71,8 +71,11 @@ This folder contains all my professional certifications and achievements.
 ![Advisors Consulting Services](../Screenshots/certif_mastercard_forage.png)
 
 **Issuing Organization:** Mastercard & Forage
+
 **Date:** October 2026
+
 **Skills:** Promotion Optimization, Data-driven Storytelling, Business Consulting
+
 
 **Project Details:** Completed practical tasks focused on promotion optimization and data-driven storytelling. 
 *(To view the project and more details, please check my LinkedIn profile: [https://www.linkedin.com/feed/update/urn:li:activity:7518283823269380096/)*
