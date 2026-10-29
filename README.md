@@ -54,6 +54,7 @@ I use **Python, Power BI, SQL, and Tableau** to transform **raw data into action
 
 | Certificate | Organization | Date |
 | :--- | :--- | :--- |
+| Advisors & Consulting Services Job Simulation | Mastercard (Forage) | 2026 |
 | Databricks Fundamentals | Databricks | 2026 |
 | Business Analytics with Excel | Simplilearn | 2026 |
 | Python for Data Science | IBM SkillsBuild | 2026|
